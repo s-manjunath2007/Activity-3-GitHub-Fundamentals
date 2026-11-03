@@ -9,3 +9,6 @@ and technology.
 
 This repository documents my learning
 journey and engineering portfolio.  
+
+## Skills
+Learning C, C++, Python and Java.
