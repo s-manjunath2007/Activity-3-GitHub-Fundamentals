@@ -12,3 +12,7 @@ journey and engineering portfolio.
 
 ## Skills
 Learning C, C++, Python and Java.
+
+## Interests
+Interested in Artificial Intelligence
+and Web Development.
