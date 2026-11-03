@@ -16,3 +16,7 @@ Learning C, C++, Python and Java.
 ## Interests
 Interested in Artificial Intelligence
 and Web Development.
+
+## Goals
+Goal: Build practical projects and
+contribute to open source.
