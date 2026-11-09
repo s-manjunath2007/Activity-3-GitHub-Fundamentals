@@ -20,3 +20,11 @@ and Web Development.
 ## Goals
 Goal: Build practical projects and
 contribute to open source.
+
+## Projects
+
+### Infosys Stock Market Price Prediction
+A machine learning project that predicts the next day's Infosys stock closing price using historical stock market data and Linear Regression.
+
+### CodeTrace
+A software development project focused on code execution, debugging, and visualizing program execution across multiple programming languages.
